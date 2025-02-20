@@ -26,3 +26,5 @@ Bootcamp-08-TypeScript-and-OOP/
 │── package-lock.json   # Locks dependencies to exact versions
 │── tsconfig.json       # TypeScript configuration
 
+ ## Link to the walk-through video   
+ <https://drive.google.com/file/d/1hxPcZNnoctJgQa_syyjn4lImRGRG4mSZ/view?usp=sharing>
